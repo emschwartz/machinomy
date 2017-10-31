@@ -74,7 +74,7 @@
     "types-rlp": "^0.0.1",
     "types-web3-fake-provider": "^0.0.2",
     "types-web3-provider-engine": "^0.0.2",
-    "typescript": "2.5.3",
+    "typescript": "2.6.1",
     "typescript-logger": "^1.1.0",
     "url-join": "^2.0.2",
     "web3": "^0.20.1",
